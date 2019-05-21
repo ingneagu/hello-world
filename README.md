@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Mircea. I am trying to get familiar with Git and Github
